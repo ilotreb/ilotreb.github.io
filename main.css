@@ -1,17 +1,9 @@
 h1 {
     color: #88F9D4;
 }
-body {
-    background-color: red;
-}
-
-h1 {
-    background-color: #FC4349;
-}
-
-p {
-    background-color: rgb(252,67,73);
-}
 p {
   color: #88F9D4;
+}
+body {
+    background-color: #FC4349;
 }
