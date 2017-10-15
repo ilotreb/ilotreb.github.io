@@ -1,11 +1,13 @@
 h1 {
-    color: #FC4349;
-    font-size: 200px;
+    color: #88F9D4;
+    font-size: 260px;
     font-weight: normal;
+    line-height: 150%;
 }
 p {
   color: #88F9D4;
-  font-size: 120px;
+  font-size: 300px;
+  line-height: 85%;
 }
 body {
     background-color: #FC4349;
